@@ -17,8 +17,24 @@ Below are a few best practices we think you can benefit from when you start impl
 5. Updating the build script and building locally before comiting
 6. Keeping the commit message in your organisation's format
 
-Some code examples: 
+Code example test: 
+```cpp
+my_value_type& operator=(my_value_type other)
+{
+    this->swap(other);
+    return *this;
+}
+```
 
+```python
+def merge_dictionaries(a, b):
+   return {**a, **b}
+
+
+a = { 'x': 1, 'y': 2}
+b = { 'y': 3, 'z': 4}
+print(merge_dictionaries(a, b)) # {'y': 3, 'x': 1, 'z': 4}
+```
 
 
 
