@@ -4,11 +4,22 @@ title:  "Welcome to the galaxy of the well-developed source code!"
 date:   2019-12-19 14:18:08 +0100
 categories: random
 ---
-As a start here is a list of checks for your current developer habits: 
-1. Always using your organisation code formatter
-2. Follow the coding rules for your programming language, for example: http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines
-3. Writing tests and developing against them - only then you have understood the subject
-4. Updating the build script and building locally before comiting
-5. Keeping the commit message in your organisation's format
+
+_“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”—Martin Fowler_
+
+Below are a few best practices we think you can benefit from when you start implementing your task 
+
+0. Write clean code: https://simpleprogrammer.com/clean-code-principles-better-programmer/
+1. Follow KISS
+2. Always using your organisation code formatter
+3. Follow the coding rules for your programming language, for example: http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines
+4. Strive for TDD: writing tests and developing against them - only then you have understood the subject
+5. Updating the build script and building locally before comiting
+6. Keeping the commit message in your organisation's format
+
+Some code examples: 
+
+
+
 
 
