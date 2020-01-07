@@ -1,4 +1,5 @@
-**SOLID** is an acronym of a few principles to build a well-architectured object oriented software.
+**SOLID** is an acronym of a few basic principles to build a well-architectured object oriented software. By using them the software
+can benefit from reusability, easy maintenance, scalability and easy testability.
 
 **S** stands for single responsibility. One way to express it is that every class shall do one thing and do it well. Solution for it is to
 create small concentrated classes. 
