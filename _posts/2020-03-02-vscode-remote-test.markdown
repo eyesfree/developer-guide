@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "VSCode Remote is online!"
-date:   2019-12-19 14:18:08 +0100
+date:   2020-03-02 15:23:08 +0100
 categories: random
 ---
 
